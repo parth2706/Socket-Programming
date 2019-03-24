@@ -1,0 +1,19 @@
+Student Name: Parth B. Mehta
+Student Id: 1001668756
+
+
+https://www.geeksforgeeks.org/multi-threaded-chat-application-set-1/  (Server.java)
+
+https://www.geeksforgeeks.org/multi-threaded-chat-application-set-2/  (Client.java)
+
+https://javatutorial.net/swing-jframe-basics-create-jframe  (For small snippets related to JFrames)
+
+https://crunchify.com/java-how-to-encode-or-decode-url-string-or-form-parameter/
+
+https://stackoverflow.com/questions/1234912/how-to-programmatically-close-a-jframe
+
+https://stackoverflow.com/questions/23064917/datainputstream-giving-java-io-eofexception
+
+
+Tutorial for Installing Plugin SWT Designer and Window Builder 
+https://www.youtube.com/watch?v=oeswfZz4IW0
